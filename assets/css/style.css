@@ -382,7 +382,7 @@ p{
 
 /* (8)Reservation form */
 .reservation {
-  border: 3px solid red;
+  /* border: 3px solid red; */
   width: 85%;
   margin: 4em auto;
 }
